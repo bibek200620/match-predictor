@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.example
+model.joblib
+premier_model.joblib
